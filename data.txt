@@ -1,0 +1,3 @@
+hero 800px x 600px
+hoodie 1024px x 1024px
+tshirt 1024px x 1024px
